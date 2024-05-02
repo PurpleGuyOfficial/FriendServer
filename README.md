@@ -1,0 +1,2 @@
+# FriendServer
+wedsaDw
